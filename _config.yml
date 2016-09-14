@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://christinevalena.github.io
+title: Chaque
+email: christinevalena@gmail.com
+author: Chaque
+description: My awesome new site
+paginate: 5
+google_analytics: 
